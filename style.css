@@ -1,0 +1,40 @@
+/* .html{
+  font-size: 62.5%;
+
+} */
+body{
+    background-color: black;
+    box-sizing: border-box;
+}
+.wrapper{
+  height: 550px;
+  width: 350px;
+  color: beige;
+  background-color: #571199;
+  border-radius: 2rem;
+  padding: 1.2rem;
+  /* margin: 100% auto; */
+  margin-left: 40rem;
+}
+.container{
+    font-size: 2rem;
+    content: "";
+    padding: 10px;
+
+}
+input{
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+}
+.title{
+ padding: 20px 20px 20px 20px;
+}
+.buttonText{
+  border-radius: 20px;
+}
+.billPrint{
+  margin-left: 14rem;
+    font-size: 1.2rem;
+    border-radius: 0.7rem;
+    color: #571199;
+}
